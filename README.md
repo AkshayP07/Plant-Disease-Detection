@@ -128,7 +128,6 @@ Moreover, to get an overview of the entire project, please go through the [**"Cr
 ## Group Members
 
 <pre>
-Anirudh Jakhotia  - S20190010007
-Khushi Pathak     - S20190010091
-V.Naveen Kumar    - S20190010192
+Akshay Parihar - 2021UCP1328
+Avi Choudhary - 2021UCP1111
 </pre>
